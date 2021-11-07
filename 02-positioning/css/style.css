@@ -30,3 +30,12 @@ section h4,
 section p {
   margin: 0;
 }
+
+p time {
+  position: absolute;
+  right: 65%;
+}
+
+p time {
+  margin-bottom: 10px;
+}

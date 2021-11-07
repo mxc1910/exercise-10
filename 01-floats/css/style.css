@@ -23,3 +23,22 @@ figure {
 figure img {
   border: 1px solid #222;
 }
+
+img {
+  float: left;
+  margin: 1px;
+}
+
+figcaption {
+  float: right;
+  margin: 10px;
+  width: 275px;
+}
+
+img[src*="img/pool-lakeside-village.jpg"] {
+  float: right;
+}
+
+figcaption {
+  margin: auto 0;
+}
